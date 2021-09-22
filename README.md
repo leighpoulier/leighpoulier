@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I'm Leigh
+
+I am currently studying web development at Coder Academy in Melbourne.
 
 <!--
 **leighpoulier/leighpoulier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
