@@ -4,7 +4,7 @@ I am a fullstack software engineer 👨‍💻🧙 with 3+ years of professional
 
 Previously, I spent over a decade as a commercial airline pilot ✈️👨‍✈, developing a disciplined, safety-focused approach to complex systems — a mindset I bring to software engineering.
 
-Most of my professional work is developed in private company repositories and is not publicly available. This GitHub contains personal and academic projects, experiments, pet projects and proof-of-concept work.
+Most of my professional work is developed in private company repositories and is not publicly available. This GitHub contains personal and academic projects, experiments and proof-of-concept work.
 
 **Current focus & interests:**
 - Fullstack development with emphasis on maintainable, scalable systems
