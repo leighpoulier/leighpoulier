@@ -1,18 +1,15 @@
 ### Hi there 👋  I'm Leigh
 
-I was an airline pilot ✈️👨‍✈ but i turned developer 👨‍💻🧙, currently studying web development at Coder Academy in Melbourne.
+I am a fullstack software engineer 👨‍💻🧙 with 3+ years of professional experience building production-scale web applications, specialising in backend and frontend systems, event-driven architecture, and GraphQL platforms. 
 
-<!--
-**leighpoulier/leighpoulier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously, I spent over a decade as a commercial airline pilot ✈️👨‍✈, developing a disciplined, safety-focused approach to complex systems — a mindset I bring to software engineering.
 
-Here are some ideas to get you started:
+Most of my professional work is developed in private company repositories and is not publicly available. This GitHub contains personal and academic projects, experiments, pet projects and proof-of-concept work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current focus & interests:**
+- Fullstack development with emphasis on maintainable, scalable systems
+- GraphQL and API design patterns
+- AI-assisted workflows and modern web technologies
+- Continuous learning and experimentation in software engineering
+
+Feel free to explore my repositories and reach out if you want to discuss projects or collaboration opportunities.
